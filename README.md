@@ -73,5 +73,5 @@ The properties are given in config.properties file
 
 **Sample Output**
 
-<img width="1469" alt="image" src="C:\Users\kunig\OneDrive - Saint Louis University\Documents\SEM_2\PSD\Extra credit\ID-Card-Generator\Output.png">
+<img width="1469" alt="image" src="https://github.com/Raghunath9493/ID_Card/blob/main/Output.png">
 
