@@ -21,13 +21,13 @@ The properties are given in config.properties file
    - Navigate to your project directory.
    - Run the command:
      ```
-     python3 -m venv venv
+     py -m venv venv
      ```
 
 2. **Activate Virtual Environment:**
    - In the same Terminal window, activate the virtual environment by running:
      ```
-     source venv/bin/activate
+     .\venv\Scripts\activate
      ```
    - Your prompt will change to show the virtual environment name, indicating that it is now active.
 
@@ -73,5 +73,5 @@ The properties are given in config.properties file
 
 **Sample Output**
 
-<img width="1469" alt="image" src="https://github.com/Raghunath9493/ID_Card/blob/main/Output.png">
+<img width="1469" alt="image" src="C:\Users\kunig\OneDrive - Saint Louis University\Documents\SEM_2\PSD\Extra credit\ID-Card-Generator\Output.png">
 
